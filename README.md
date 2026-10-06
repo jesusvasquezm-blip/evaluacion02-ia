@@ -48,14 +48,11 @@ graph TD
     E --> G
     F --> G
     G --> H[Documentación Final]
----
-
+```
 ## 📊 Tabla Comparativa de IAs
-
 | Criterio | ChatGPT | Claude 3.5 Sonnet | Gemini |
 | :--- | :--- | :--- | :--- |
 | Fortaleza | Procesamiento de texto libre | Razonamiento matemático y XML | Estructuración estricta de JSON |
 | Técnica Usada | Zero-shot | Bloques XML | Few-shot Prompting |
 | Precisión | Alta | Exacta (100%) | Alta |
-
 Conclusión: Cada modelo de IA demostró ser eficaz según la tarea. Claude destacó en precisión financiera con lógica XML, ChatGPT en análisis sintáctico y Gemini en la extracción limpia de datos estructurados en formato JSON.
